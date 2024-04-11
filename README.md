@@ -1,7 +1,7 @@
 TESLA APOCALIPSIS:
 
 Acerca del Juego:
-"Tesla Apocalipsis" es un juego de acción y arcade creado con Python y la biblioteca Pygame. 
+"Tesla Apocalipsis" es un juego de acción y arcade creado con Python y la libreria Pygame. 
 
 
 Controles Intuitivos: Utiliza el teclado y el ratón para controlar al ninja. eL nija salta y lanza sierras.
